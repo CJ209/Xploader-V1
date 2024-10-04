@@ -25,11 +25,11 @@ global.location = process.env.GL_INFO || "Kenya, Nairobi, Karen" //ur location
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫' //ur bot name
+global.botname = process.env.BOT_NAME || 'Chris Bot' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '254796180105' //ur owner number
+global.ownernumber = process.env.SUDO || '263777887745' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'Tylor' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'Chris' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@heyits_tylor"
 //________________________________________________________________________________________________________
@@ -47,9 +47,9 @@ global.author = process.env.AUTHER_NAME || "lor"
 //________________________________________________________________________________________________________
 global.creator = process.env.GL_DEVS || "254796180105@s.whatsapp.net"
 //________________________________________________________________________________________________________
-global.xprefix = process.env.PREFIX || '.'  //Leave blank if you want to use without a prefix 
+global.xprefix = process.env.PREFIX || '/'  //Leave blank if you want to use without a prefix 
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["254796180105"] // Premium User
+global.premium = process.env.GL_VIP || ["263777887745"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
